@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:-->
 
-I’m currently learning Front-end
+I’m a FullStack developer!
   ###### <div>Pronouns: She/Her 👩</div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div align="center">
